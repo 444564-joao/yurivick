@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, blue, green, yellow, red);
+    overflow: hidden;
+}
+
+h1 {
+ display: block;
+ position: relative;
+ color: black;
+ display: block;
+ font-size: 300px;
+ right: -100px;
+}
